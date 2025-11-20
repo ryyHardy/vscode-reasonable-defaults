@@ -1,0 +1,31 @@
+{
+  "name": "vscode-reasonable-defaults",
+  "displayName": "Reasonable Defaults!",
+  "description": "A nice set of common extensions to jump-start your VSCode configuration",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.106.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "./assets/icon.png",
+  "extensionPack": [
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "ms-azuretools.vscode-containers",
+    "github.copilot",
+    "donjayamanne.git-extension-pack",
+    "streetsidesoftware.code-spell-checker",
+    "gruntfuggly.todo-tree",
+    "aaron-bond.better-comments",
+    "usernamehw.errorlens",
+    "oderwat.indent-rainbow",
+    "liviuschera.noctis",
+    "pkief.material-icon-theme",
+    "johnpapa.vscode-peacock",
+    "yzhang.markdown-all-in-one",
+    "davidanson.vscode-markdownlint",
+    "shd101wyy.markdown-preview-enhanced",
+    "tomoki1207.pdf"
+  ]
+}
