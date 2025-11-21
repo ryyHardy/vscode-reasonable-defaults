@@ -1,4 +1,6 @@
-# Reasonable Defaults! (VSCode Extension Pack)
+# ![Reasonable Defaults Logo](./assets/icon.png) Reasonable Defaults! (VSCode Extension Pack)
+
+> It's published! View it [here](https://marketplace.visualstudio.com/items?itemName=ryHardy.vscode-reasonable-defaults).
 
 Contains a set of common extensions that are useful to anyone regardless of language, framework, or specialty. It's designed to be as general as possible, so it does not include any language/framework-specific extensions.
 
@@ -8,7 +10,7 @@ Instead of having to remember all the general-purpose VSCode extensions to insta
 
 - [Remote Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) (Microsoft)
 - [Container Tools](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers) (Microsoft)
-- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) (GitHub)
+- [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) (GitHub)
 - [Git Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack) (Don Jayamanne)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) (Street Side Software)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) (Gruntfuggly)

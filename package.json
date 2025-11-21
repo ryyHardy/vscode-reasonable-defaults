@@ -1,4 +1,7 @@
 {
+  "license": "MIT",
+  "pricing": "Free",
+  "publisher": "ryHardy",
   "name": "vscode-reasonable-defaults",
   "displayName": "Reasonable Defaults!",
   "description": "A nice set of common extensions to jump-start your VSCode configuration",
@@ -9,11 +12,19 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ryyHardy/vscode-reasonable-defaults.git"
+  },
   "icon": "./assets/icon.png",
+  "galleryBanner": {
+    "color": "#C80000",
+    "theme": "dark"
+  },
   "extensionPack": [
     "ms-vscode-remote.vscode-remote-extensionpack",
     "ms-azuretools.vscode-containers",
-    "github.copilot",
+    "github.copilot-chat",
     "donjayamanne.git-extension-pack",
     "streetsidesoftware.code-spell-checker",
     "gruntfuggly.todo-tree",
