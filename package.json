@@ -5,7 +5,7 @@
   "name": "vscode-reasonable-defaults",
   "displayName": "Reasonable Defaults!",
   "description": "A nice set of common extensions to jump-start your VSCode configuration",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.106.0"
   },
