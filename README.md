@@ -1,4 +1,4 @@
-# ![Reasonable Defaults Logo](./assets/icon.png) Reasonable Defaults! (VSCode Extension Pack)
+# ![Reasonable Defaults Logo](./assets/icon.png) Reasonable Defaults :D (VSCode Extension Pack)
 
 > It's published! View it on the [marketplace](https://marketplace.visualstudio.com/items?itemName=ryHardy.vscode-reasonable-defaults)
 
