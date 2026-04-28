@@ -6,12 +6,12 @@
 
 -
 
-## [0.1.1] - 2026-4-28
+## [1.1.0] - 2026-4-28
 
 - Removed Peacock, color + icon themes, and GitHub copilot to make extension pack less opinionated
 - Added editorconfig because VSCode doesn't support it out-of-the-box
 
-## [0.1.0] - 2025-11-20
+## [1.0.0] - 2025-11-20
 
 - **Released!**
 
