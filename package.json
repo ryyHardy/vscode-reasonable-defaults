@@ -2,7 +2,7 @@
   "license": "MIT",
   "pricing": "Free",
   "publisher": "ryHardy",
-  "name": "vscode-reasonable-defaults",
+  "name": "reasonable-defaults",
   "displayName": "Reasonable Defaults!",
   "description": "A nice set of common extensions to jump-start your VSCode configuration",
   "version": "1.1.0",
