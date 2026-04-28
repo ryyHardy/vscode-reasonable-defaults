@@ -23,7 +23,6 @@
   },
   "extensionPack": [
     "aaron-bond.better-comments",
-    "alefragnani.Bookmarks",
     "davidanson.vscode-markdownlint",
     "donjayamanne.git-extension-pack",
     "EditorConfig.EditorConfig",
