@@ -5,7 +5,7 @@
   "name": "reasonable-defaults",
   "displayName": "Reasonable Defaults :D",
   "description": "A nice set of common extensions to jump-start your VSCode configuration",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.106.0"
   },
@@ -23,6 +23,7 @@
   },
   "extensionPack": [
     "aaron-bond.better-comments",
+    "alefragnani.Bookmarks",
     "davidanson.vscode-markdownlint",
     "donjayamanne.git-extension-pack",
     "EditorConfig.EditorConfig",
