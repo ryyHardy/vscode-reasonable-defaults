@@ -1,6 +1,6 @@
 # ![Reasonable Defaults Logo](./assets/icon.png) Reasonable Defaults :D (VSCode Extension Pack)
 
-> It's published! View it on the [marketplace](https://marketplace.visualstudio.com/items?itemName=ryHardy.vscode-reasonable-defaults)
+> It's published! View it on the [marketplace](https://marketplace.visualstudio.com/items?itemName=ryHardy.reasonable-defaults)
 
 Contains a set of common extensions that are useful to anyone regardless of language, framework, or specialty. It's designed to be as general as possible, so it does not include any language/framework-specific extensions.
 
