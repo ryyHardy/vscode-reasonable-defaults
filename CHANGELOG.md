@@ -6,6 +6,12 @@
 
 -
 
+## [3.0.0] - 2026-6-23
+
+- Removed Todo Tree as it is no longer maintained and now has errors on startup
+- Added Better Todo Tree by FanaticPythoner to replace it. Not sure about its long-term future, but fixes the problem for now
+- Removed the Git extension pack because the majority of its extensions are no longer maintained. Also, much of their functionality is now native to VSCode
+
 ## [2.0.0] - 2026-4-28
 
 - Removed Peacock, color + icon themes, and GitHub copilot to make extension pack less opinionated

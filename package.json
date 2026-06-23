@@ -24,9 +24,8 @@
   "extensionPack": [
     "aaron-bond.better-comments",
     "davidanson.vscode-markdownlint",
-    "donjayamanne.git-extension-pack",
     "EditorConfig.EditorConfig",
-    "gruntfuggly.todo-tree",
+    "FanaticPythoner.better-todo-tree",
     "ms-azuretools.vscode-containers",
     "ms-vscode-remote.vscode-remote-extensionpack",
     "oderwat.indent-rainbow",

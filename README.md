@@ -9,19 +9,18 @@ Instead of having to remember all the general-purpose VSCode extensions to insta
 ## Included Extensions/Packs
 
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) (Aaron Bond)
+- [Better Todo Tree](https://marketplace.visualstudio.com/items?itemName=FanaticPythoner.better-todo-tree) (FanaticPythoner)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) (Street Side Software)
 - [Container Tools](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-containers) (Microsoft)
 - [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) (EditorConfig)
 - [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) (Alexander)
-- [Git Extension Pack](https://marketplace.visualstudio.com/items?itemName=donjayamanne.git-extension-pack) (Don Jayamanne)
 - [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) (oderwat)
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) (Yu Zhang)
 - [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) (Yiyi Wang)
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) (David Anson)
 - [Remote Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack) (Microsoft)
-- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) (Gruntfuggly)
 - [vscode-pdf](https://marketplace.visualstudio.com/items?itemName=tomoki1207.pdf) (tomoki1207)
 
 ## Contributing
 
-If you want to suggest an adjustment to this pack, like adding or removing extension, feel free to make an issue for it. Keep in mind that the pack needs to be as minimal as possible with the most general extensions useful to any kind of developer.
+If you want to suggest an adjustment to this pack, like adding or removing extensions, feel free to make an issue for it. Keep in mind that the pack needs to be as minimal as possible with the most general extensions useful to any kind of developer. We also want those extensions to be well-maintained.
